@@ -1,0 +1,15 @@
+[theme]
+# Cor principal (usada em botões e destaques)
+primaryColor = "#FDB913" 
+
+# Cor de fundo da página principal (um cinza bem claro para destacar os cartões)
+backgroundColor = "#F4F6F9" 
+
+# Cor de fundo da barra lateral (Azul Escuro institucional)
+secondaryBackgroundColor = "#002040" 
+
+# Cor do texto principal
+textColor = "#1E1E1E"
+
+# Fonte padrão
+font = "sans serif"
